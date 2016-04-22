@@ -4,7 +4,7 @@ MEMBER 1 Yuwei
  
 MEMBER 2 Jackson
  
-MEMBER 3 Bowen 
+MEMBER 3 YUWEI 
  
 MEMBER 4 Eugene
 
