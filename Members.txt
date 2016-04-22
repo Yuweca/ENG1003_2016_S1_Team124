@@ -4,8 +4,5 @@ MEMBER 1 Yuwei
  
 MEMBER 2 Jackson
  
-MEMBER 3 Bowen 
- 
-MEMBER 4 Eugene
-
-THIS IS CONFLICT! I HAVE CREATED IT
+MEMBER 3 1234
+ helloooooo
