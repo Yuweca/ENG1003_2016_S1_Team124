@@ -6,4 +6,5 @@ MEMBER 2 Jackson
  
 MEMBER 3 Bowen 
  
-MEMBER 4 NAME
+MEMBER 4 Eugene
+
